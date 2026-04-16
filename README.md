@@ -73,5 +73,5 @@ f) Seasonality
    
  Screen Shots of the Dashboard:
  overview: https://github.com/riddhideshpande01/Power-bi-Dashboards/blob/main/overview.png
- Ratings: 
- Reviews:
+ Ratings: https://github.com/riddhideshpande01/Power-bi-Dashboards/blob/main/ratings.png
+ Reviews:https://github.com/riddhideshpande01/Power-bi-Dashboards/blob/main/reviews.png
