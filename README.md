@@ -71,5 +71,7 @@ f) Seasonality
    Due to European summer travel Paris and Rome dominate review share from April to August.
    New York review share increases in November and December during holidays season.
    
-
-   
+ Screen Shots of the Dashboard:
+ overview: https://github.com/riddhideshpande01/Power-bi-Dashboards/blob/main/overview.png
+ Ratings: 
+ Reviews:
