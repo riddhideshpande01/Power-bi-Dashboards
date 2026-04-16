@@ -1,10 +1,10 @@
-1.Title
+1.Title: 
 Airbnb globel performance dashboard
 
-2.Description 
+2.Description: 
 The Airbnb Global Dashboard is a simple and interactive project that helps us understand Airbnb data in an easy way. It shows information like Listing accourding to the rooms, market shares by cities, ratings, trust factors, Seasonality, top reviewers, and user activity. With the help of visuals, we can quickly find patterns and compare different locations. This dashboard is created using Power BI to make the data clear, useful, and easy to understand.
 
-3. Tech-stack
+3. Tech-stack: 
 The dashboard was built using the following tools and technologies:
 1.Power BI Desktop: Main data visualization platforms used for report creation.
 2.Power Query: Data Transformation and cleaning layer for reshaping and preparing the data.
@@ -12,15 +12,15 @@ The dashboard was built using the following tools and technologies:
 4.Data modeling: Relationships established among the tables (Listing, Reviews) to enable cross-filtering and aggrigation.
 5.File format: .pbix for development and .png for dashboard preview
 
-4.Data Source 
+4.Data Source: 
 Source: Maven 
 Airbnb data for over 250k listing in 10 major cities, including information about hosts,pricing,location, and room type, along with over 5 million historical reviews.
 
-5.Features 
+5.Features: 
 1.Buisness problem: Airbnb Global Performance
 2.Goal of the Dashboard: The business problem behind Airbnb Global Performance is to understand how the platform is performing across different cities and countries. Airbnb needs to identify which locations have high demand, who the most active users are, and how listings and reviews are distributed.
 
-3.Key Visuals
+3.Key Visuals: 
 a) KPIs:  This are used in dashboards to show the most important information in a simple and clear way. They help users quickly understand performance and make better decisions without analyzing too much data.
 In this dashboard KPI's are used to show the total number of Listings, total cities, total hosts and property types.
 Also in the Review page this KPI's used to show the trust factor based on the profile picture and identity verification. 
@@ -43,7 +43,7 @@ g) matrix column chart: used to show the detailed ratings as per the cities in t
 h) Ribbon chart: It used for easily see which category is performing best and how positions shift across different periods. 
 In this dashboard this chart is used to see Month-wise, which city dominates the review share.
 
-4.Impact & Insights
+4.Impact & Insights: 
 a) Year wise high and low number of listing and COVID-19 pandemic impact of it.
    highest number of listing: In year 2015 
    Restrain: In the year 2016-2017
